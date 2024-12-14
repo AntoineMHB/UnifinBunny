@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1069847607676",
+    "project_id": "fooddeliveryapp-7235e",
+    "storage_bucket": "fooddeliveryapp-7235e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069847607676:android:f3c9fbcdfc080e5f638cf9",
+        "android_client_info": {
+          "package_name": "com.damaz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069847607676-43bmqarl18rsi328tljcrra6347dq7ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHE9ybhznl075UJviDWOk4XfTj2e90J_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069847607676-43bmqarl18rsi328tljcrra6347dq7ab.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1069847607676-05s8a9umaoshfum5etu17eu9mq6v9hnn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.damaz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

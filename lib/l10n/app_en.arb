@@ -1,0 +1,27 @@
+
+
+{
+
+  "homes": "H O M E",
+  "logout": "L O G O U T",
+  "register_title": "Let's create an account for you",
+  "passwords_do_not_match": "Passwords don't match",
+  "already_have_account": "Already have an account?",
+  "login_now": "Login now",
+  "darkMode": "Dark Mode",
+  "settings": "Settings",
+  "language": "Language",
+  "switchToSpanish": "Switch to Spanish",
+  "switchToEnglish": "Switch to English",
+  "addonHeader": "Add-on",
+  "addToCart": "Add to cart",
+  "welcomeDevicesPage": "Welcome Home, ",
+  "smartDevicesText": "Smart Devices",
+  "smartLightText": "Smart Light",
+  "motionDetectionText": "Motion Detection",
+  "locationTrackingText": "Location Tracking",
+  "smartFunText": "Smart Fun",
+  "homeTextGButton": "Home",
+  "sensorsTextGButton": "Sensors",
+  "locationPermissionsDesabledText": "Location permissions are disabled"
+}
